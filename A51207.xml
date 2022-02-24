@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great trumpet of the Lord God Almighty of heaven and earth blown, and sounded out unto those that are ready to perish that they may return to the Lord Jesus Christ (the light) and be saved.</title>
+            <author>Moon, John, fl. 1657-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51207</idno>
+            <idno type="STC">Wing M2524A</idno>
+            <idno type="STC">ESTC R25164</idno>
+            <idno type="EEBO-CITATION">08788009</idno>
+            <idno type="OCLC">ocm 08788009</idno>
+            <idno type="VID">41810</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51207)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41810)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1266:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great trumpet of the Lord God Almighty of heaven and earth blown, and sounded out unto those that are ready to perish that they may return to the Lord Jesus Christ (the light) and be saved.</title>
+                  <author>Moon, John, fl. 1657-1685.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1660?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: John Moon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Salvation.</term>
+               <term>God.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:41810:1"/>
+            <pb n="1" facs="tcp:41810:1" rendition="simple:additions"/>
+            <head>The Great TRUMPET OF THE Lord God Almighty OF HEAVEN and EARTH, Blown, and ſounded out unto thoſe that are ready to periſh, that they may return to the Lord Jeſus Chriſt, (the Light) and be ſaved.</head>
+            <p>OH all ye Inhabitants of the Earth! My ſoul pitties you, becauſe you are walking in the Land of darkneſs, and under the ſhadow of death, &amp; unto you hath the light ſhined which ſhews you ſin &amp; iniquity; and if you wil but own that light, &amp; as it ſhews you ſin, ſo deny it, you will come to re<g ref="char:EOLhyphen"/>receive the light of life, and ſo come to be brought out of the land of darkneſs which the Lord will deſtroy; and the day is now dawned wherein neither their ſilver, nor their gold ſhall<note place="margin">Zeph. 1. 18.</note> be able to deliver them in the day of the Lords wrath; but the whole land ſhall be devoured by the fire of his jealouſie, for he ſhal make even a ſpeedy riddance of all them that dwel in the land; for many people in this Nation are in the land of darkneſs, which is ſin and iniquity, and their deſtruction will come upon them in a day &amp; an hour when they are not aware of, &amp; in that day if they ſhall cry for help, they will find none.</p>
+            <p>Awake, awake unto righteouſneſs, for the glory of God is
+<pb n="2" facs="tcp:41810:2" rendition="simple:additions"/>
+come, &amp; his light is riſen which ſearches the heart, &amp; tryes the reins, &amp; ſhews unto man what his Works are, for every man is to receive a reward according to the deeds done in the body, whether they be good, or whether they be evil; &amp; them whoſe deeds are evil, are them who are deceived, <hi>and the wages of ſin is death;</hi> ſo all people conſider what you have profited towards ſalvation; For many there be who follows them who doth not profit them towards redemption, &amp; thoſe can cry, <hi>Lord, Lord,</hi> but they are found workers of iniquity, &amp; ſo doing the will of another; and the teachers of this people never brings them to know Gods ſalvation; but teacheth the people to ſpeak againſt it, &amp; ſo the people &amp; themſelves remains in their ſins, &amp; igno<g ref="char:EOLhyphen"/>rant of Gods ſalvation, <hi>which he hath prepared before the face of all people, a light to lighten the Gentiles, &amp; the glory of thy people Iſ<g ref="char:EOLhyphen"/>rael;</hi> So all to mark &amp; conſider the falſe prophets, they cry up the letter, &amp; ſaith that is the way unto God, &amp; to bring man unto Chriſt; and I ſay, the letter brings no man unto God, nor to the knowledge of Chriſt; for the Scribes and Phariſees they had the letter &amp; Scriptures of truth, &amp; neither knew God nor Chriſt; for Chriſt ſaid, <hi>If ye had known me, ye would not have cru<g ref="char:EOLhyphen"/>cified me;</hi> And ſaid, <hi>No man comes unto me, except my Father draws him;</hi> [mark] It was the Father that drew unto the Son, &amp; not the letter, <hi>for the letter killeth, but the spirit giveth life;</hi> and many there be that can read the letter, but doth not know the way unto eternal life; &amp; theſe are them who profeſs God &amp; Chriſt in words, but deny him in works; for all who denies perfection, or that w<hi rend="sup">ch</hi> is perfect, they deny the Father &amp; the Son; &amp; them who hates Judgement, they hate Gods Way: And people, do you not ſee and know that the Miniſters of <hi>England</hi> (ſo called) do hate and deny perfection, or to be perfect? So herein they deny Chriſt, which is Perfection, &amp; his Work, which is perfect;<note place="margin">Deut. 32. 4</note> 
+               <hi>he is the Rock, his work is perfect,</hi> [mark] <hi>his work is perfect; for all his wayes are Judgement, a God of truth, and without iniquity, juſt and right:</hi> So herein they do deny the Workmanſhip of his hand, and ſo denies the Lord that bought them; and theſe are them who declare of God and Chriſt in words, but their hearts are far removed from him, following after the love of money, which is the root of all evil; &amp; this is more followed &amp; ſought after by the Miniſters of <hi>England,</hi> then perfection, [mark] mo<g ref="char:EOLhyphen"/>ney
+<pb n="3" facs="tcp:41810:2" rendition="simple:additions"/>
+is more ſought after then perfection, by the deceivers who join houſe unto houſe, and land unto land, and theſe called the proud, happy; them who calls the proud, happy, their Works ſtand againſt the Lord; yea, and they that work wickedneſs and<note place="margin">Iſa. 5. 8<g ref="char:punc">▪</g>
+               </note> abomination are ſet up; but the hand of the Lord is lifted up a<g ref="char:EOLhyphen"/>gainſt them, and will daſh them to pieces like a Potter's Veſſel. And if they ſhould ſay, What have we ſpoken ſo much againſt the Truth? <hi>Anſ.</hi> Thou haſt ſpoken againſt the Truth, and in re<g ref="char:EOLhyphen"/>bellion againſt the Light; for thou knovveſt not the Way there<g ref="char:EOLhyphen"/>of, vvhich Way is pure and holy, vvhere the defiled cannot walk<note place="margin">Job 2<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </note> therein; and from this were the Scriptures of truth given forth, &amp; by the ſame holy and perfect life they come to be known and witneſſed; and by this light nd life comes all the falſe Prophets &amp; Deceivers to be ſeen and denyed, who rebel againſt the light, and this is not ſtrange unto many; all which rebels againſt that light which ſhews ſin and iniquity, they rebel both againſt the Father &amp; the Son; &amp; this is the Meſſage which we have heard of him, and declare unto you, that God is light, &amp; in him is no darkneſs at all. And Chriſt Jeſus who is <hi>the light of the world, and lighteth every man that cometh into the world,</hi> who ſaith, <hi>Ye ſhall know the falſe prophets by their fruits;</hi> [mark] it is by their fruits that people ſhould know them, which are fruits of Wickedneſs: Now we looking into the World to ſee what fruits the Miniſters thereof brings forth, which fruits are theſe, Pride, Covetouſneſs, Drunkenneſs, Swearing, Ly<g ref="char:EOLhyphen"/>ing, and Envy, theſe are the fruits of the falſe prophets, and the Miniſters of <hi>England,</hi> who keep the people ever learning, but ne<g ref="char:EOLhyphen"/>ver able to come unto the knowledge of the truth; <hi>for of this ſort are they that creep into houſes, and leads captive ſilly women, laden with ſin, led away with divers luſts, pride and wantonneſs, heady, high-minded</hi>
+               <note place="margin">2 Tim. <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </note> 
+               <hi>people, lovers of pleaſures more then lovers of God, men of corrupt minds, who reſiſt the Truth, and ſpeak evil of the Light;</hi> but now the time is come that theſe men wil not endure ſound Doctrine, but walk after their own ungodly luſts, and this is plainly made manifeſt unto many; for they do not cauſe ſo many to be put into priſon for the unſoundneſs of their Doctrine, for this is the cauſe, their Doctrine is ſound and wholſome, &amp; the Miniſters of <hi>England</hi> can<g ref="char:EOLhyphen"/>not endure it becauſe it is ſound Doctrine; But all people learn Wiſdom, &amp; let your Miniſters make good by Scripture their pra<g ref="char:EOLhyphen"/>ctices, or elſe take heed of upholding them, leſt you partake of
+<pb n="4" facs="tcp:41810:3" rendition="simple:additions"/>
+their ſins, and ſo partake of their plagues alſo; for it is one thing to talk of the deceivers, and another thing to know them, and ſo deny them; for no man can be greater deceived then to live in ſin, for that is the broadeſt way that man can find upon earth, &amp; ma<g ref="char:EOLhyphen"/>many there be that walk therein; but ſtrait is the way that lead<g ref="char:EOLhyphen"/>eth unto life, and few there be that find it; which way is a perfect way. So all people call unto remembrance what you know or have found, which is pure, holy &amp; perfect, which is the way unto eternal life; for many there be that finds the Bible, &amp; reads the let<g ref="char:EOLhyphen"/>ter, and are ignorant of the power of God, and is found without God in the World; and theſe are them who will not come unto Chriſt that they might have life, neither do they believe the<note place="margin">
+                  <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 5. 40.</note> Work of God, which is perfect, but they run to do their own Work, and in their own name, and the World receives them; but he that cometh in the Name of the Lord, they hate, revile, &amp; per<g ref="char:EOLhyphen"/>ſecute, for they that will live godly in this world, muſt ſuffer per<g ref="char:EOLhyphen"/>ſecution, but many that live in pleaſures, and following the Mi<g ref="char:EOLhyphen"/>niſters (ſo called) day by day, and from time to time, and from place to place, until they were many years old, and alwayes ſin and iniquity remaining, &amp; they are at this day ſaying, Oh that we knew the truth! So here it appears that theſe people are ever learning, that ſay, Oh that we knew the truth! Theſe are the de<g ref="char:EOLhyphen"/>ceived people: And this I can really ſay, That theſe followed not the truth, nor the Lamb of God, for as many as followed him, he takes away their ſins, and brings them to ſit down with him in heavenly places; but the deceivers they pleaſe the people with crying againſt ſin, and tells them they muſt live in it; But now Chriſt Jeſus the light of the World is come, and is making mani<g ref="char:EOLhyphen"/>feſt himſelf unto them that fear him, to the deſtroying of ſin and iniquity: And this is the teſtimony which I am ſent to bear wit<g ref="char:EOLhyphen"/>neſs of unto the World, that they through his name might believe and be ſaved, for there is no other Name under Heaven whereby any man can be ſaved<g ref="char:punc">▪</g> but by the Name of Jeſus Chriſt, which is pure, holy, and perfect, without ſpot or blemiſh; &amp; this is he who is God's righteouſneſs and ſalvation to the end of the Earth; but many of this World are ignorant of this pure and perfect Way which leads unto eternal life. All people conſider, do you not hear and know that them who are called Miniſters of <hi>England</hi> do deny purity, holineſs, and perfection in this life, that man can<g ref="char:EOLhyphen"/>not
+<pb n="5" facs="tcp:41810:3" rendition="simple:additions"/>
+come unto it; Chriſt ſaith, <hi>Come and learn of me, for I am meek and lowly;</hi> And all that come unto Chriſt, they come unto him that is perfect, and who is the end of all perfection, God of Heaven &amp; Earth: And this we hold forth unto all people, the gift of God, &amp; the perfect way and life; but them that denies perfection, we can ſay no leſs, they deny both God and Chriſt, and alſo the blood of the Covenant, and accounts it an unholy thing, and tramples it under foot; do you not ſee with your eyes, &amp; hear with your ears, that perfection is cryed againſt by many in this day? and all that ſpeak againſt it, ſpeaks againſt the truth and Gods righteouſneſs, theſe are the deceivers, from them that are ignorant of perfecti<g ref="char:EOLhyphen"/>on, they are ignorant of Gods righteouſneſs, and ſo they being ignorant of Gods righteouſneſs, are going about to eſtabliſh their<note place="margin">
+                  <hi>Rom.</hi> 2.</note> own; and theſe are them who preacheth againſt ſin in words, but practiſeth it in their lives and converſations, &amp; preacheth againſt perfection, for that which is of faith is perfect, and of God; &amp; that which is not of faith, is ſin: Now if any ſhould ſay, Who are theſe that are the deceivers, and they that know not Gods righteouſ<g ref="char:EOLhyphen"/>neſs? <hi>Anſ.</hi> I have found many in this Nation who are ignorant of perfection; for all who live in ſin and ungodlineſs, are out of the Way of God, and are in the broad way which leads unto de<g ref="char:EOLhyphen"/>ſtruction. I have more to ſay againſt the blind guides of the world, who tells people Scripture is their rule, and finds them acting contraray unto Chriſt and the Scriptures, who ſaid, <hi>Try all things, hold faſt that which is good,</hi> which is the gift of God by which man is ſaved, as ſaith the Scriptures; <hi>For by grace are ye ſaved, through faith, and that not of your ſelves, for it is the gift of God;</hi> but the Mini<g ref="char:EOLhyphen"/>ſters<note place="margin">Eph. 2.</note> of <hi>England</hi> do counſel the people not to hear them who are called <hi>Quakers,</hi> and ſo would not have them to try all things for fear they ſhould ſee their ignorance &amp; errors, &amp; deny them, &amp; no longer uphold them in their ungodlypractices, which is cove<g ref="char:EOLhyphen"/>touſneſs, and perſecution, and many evil practices more then is here mentioned; but if there be any who love the truth, they wil love that which proceedeth from the truth, which is the holy Scriptures, and will ſearch them, to ſee if the Miniſters of <hi>England</hi> live the ſame life as they did who gave forth the Scriptures, who were holy men of God, and their Faith gave them victory over the World, and that Goſpel which they preached, was the Goſpel of Chriſt, which is the power of God unto ſalvation to every one<note place="margin">Rom. 2.</note>
+               <pb n="7" facs="tcp:41810:4" rendition="simple:additions"/>
+that believes, to the Jews firſt, and alſo to the Greeks; And now people conſider, you have long gone to hear the Miniſters of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and hath believed that Goſpel which they have preached, but you alwayes remain in your ſins, and ignorant of the power of God, &amp; ſo it is manifeſt that they preach another Goſpel, and ſo you ſhould not uphold them in it, neither in their pride and covetouſneſs, and ungodly converſation which they live in.</p>
+            <p>And now people, have not your eyes ſeen this, That as long as we followed them, to hear them tell their imaginations &amp; their dreams, and put into their mouths, they ſpake peace unto us, as they do unto you in this day? But do not you hear, that when we cannot put into their mouths, and uphold them and their Wives in pride and covetouſneſs, then they prepare war againſt us, and cauſes ſome to be put into priſon, and others to ſtocks, &amp; others they cauſe their means to be taken from them violently, to up<g ref="char:EOLhyphen"/>hold them and their Wives in pride, and that which is taken vio<g ref="char:EOLhyphen"/>lently, is the Wages of unrighteouſneſs? Oh people! this is an abo<g ref="char:EOLhyphen"/>minable thing, and deſerves to be declared againſt; for the peo<g ref="char:EOLhyphen"/>ple of God in all ages delared againſt the Wages of unrighteouſ<g ref="char:EOLhyphen"/>neſs, which is to take mens means, and they having nothing for it, as theſe do who are called Miniſters of <hi>England;</hi> and yet further they go in their wickedneſs, beſides taking their means, they oft caſt them into priſon, &amp; takes their means from them who learns not of them, neither do they buy any thing of them; and herein it is plainly manifeſt, that the Miniſters of <hi>England</hi> exceed all o<g ref="char:EOLhyphen"/>ther Trades for falſhood and diſſimulation, for they force men to buy of them, or elſe they cauſe their means to be taken from them by force, of thoſe people who deny either to learn of them, or to buy any of their ſtuff. And furthermore, they cauſe mens means to be taken from them to uphold their Idols Temple, (which they call their Church) of thoſe men who denies their Worſhip, &amp; when that man comes &amp; declares againſt their Wor<g ref="char:EOLhyphen"/>ſhip, they will draw him out, and put him into priſon; and this is abominable, to cauſe a man to pay towards the repairing of a Houſe, and when he comes there, they will pull him out, and put him into priſon; but the day of the Lord is ſpringing, that people will not buy their ſtuff ſo willingly as they have done in times paſt; and now they are inventing and deviſing a way, which is a Law to enforce people to buy of their ſtuff, &amp; to compel them to
+<pb n="7" facs="tcp:41810:4" rendition="simple:additions"/>
+their Worſhip, the ſame it is now as it was with <hi>Nebuchadnezar,</hi> who cauſed the people to worſhip the Image. So all people conſi<g ref="char:EOLhyphen"/>der whom you worſhip, &amp; what you have bought of the Miniſters of England, and what it is they have ſold unto you; for if it be truth, then they do act contrary to the Scriptures, which ſaith,<note place="margin">Prov. 23.</note> 
+               <hi>Buy the Truth, &amp; ſell it not;</hi> [mark] ſell it not; for whoever ſells the truth, (God's Word) is one with <hi>Judas,</hi> for he ſold the Truth, and the life, and the Word of God; and if any ſhould ſay he ſells not<note place="margin">Rom. 23.</note> the Truth, then doth he ſell lyes, (for what is of faith, is of God, and what is not of faith, is ſin) and a divination of their own brains, and the imaginations of their own hearts; and theſe men ſpeaks peace where the Lord ſpeaks not peace unto them, and will ſay, Is not the Lord amongſt us? And all this is but to have the people to uphold them and their Wives in covertouſneſs and pride; and theſe are them that deceives the people, who joins houſe to houſe, and layes field to field, as the deceivers in all a<g ref="char:EOLhyphen"/>ges did, <hi>Iſa.</hi> 5. 8. Now if it were ſo, that the Lord were well-pleaſed with their doings, and were amongſt them, and they received him to whom all power is given, Why then have they not power over ſin? for that which deſtroys ſin is much wanting amongſt the Prieſts and people of England, for they can cry out againſt ſin in words, as the falſe prophets did, but in life, practice, and conver<g ref="char:EOLhyphen"/>ſation, they live in ſin and unrighteouſneſs; now we can truly ſay that theſe Prieſts &amp; people have not the truth, though they have the true Words; for the Scripture ſaith, As many as received him, to them gave he power to become the ſons of God, even to them that believe in his Name, <hi>John</hi> 1. 12. If they had but come ſo far as to believe in his Name, he would have given them power over ſin &amp; uncleanneſs, but they wanting power, they want the truth, and remains in their ſins, and ſo are found falſe Witneſſes, 1 <hi>Cor.</hi> 15. 15. and ever lives in ungodlineſs, and the pleaſure of the World, and wantonly upon earth, and ſo man cometh to commit ſin and iniquity, and ſo becomes ignorant of God; for whoſoever ſinneth, hath not ſeen him, neither known him, <hi>John</hi> 3. 6.</p>
+            <p>Now all people to the truth, the light of the Lord Jeſus Chriſt which ſhews ſin and iniquity, all take heed, &amp; hearken to it, and it will ſhew you whether you have profited more unto ſalvation then the deceivers, and the deceived people did, for they could ſay Lord, Lord, but did not the will of God, but did their own
+<pb n="8" facs="tcp:41810:5" rendition="simple:additions"/>
+wils, and took pleaſure therein, which Works are theſe, Pride, Co<g ref="char:EOLhyphen"/>vetouſneſs, High-mindedneſs, Envy, Drunkenneſs, and Whore<g ref="char:EOLhyphen"/>dom, Lying, Stealing, and Swearing; and them that follow or live in thoſe practices, are deceived; and when we come and declare againſt theſe evil practices, then thoſe that live in theſe evil pra<g ref="char:EOLhyphen"/>ctices do rage, and cannot abide ſound Doctrine, and ſo they wil go about to plead for ſin &amp; wickedneſs with all their ſtrength &amp; might, and ſtrive to uphold it; theſe are not in the truth, but out of it; Whoſoever abideth in him who is the Truth, ſinneth not, <hi>John.</hi> 3. 6. And becauſe we ſay, that all people upon earth ſhould come to that which is pure, perfect, and holy, and this is the gift of God, Chriſt Jeſus, who ſaith, Come learn of me, I am meek and lowly in heart, and thou ſhalt find reſt unto thy ſoul; and all that comes to learn of Chriſt Jeſus, wil deny ſuch as goes for gifts and rewards, or ſet-maintenance, and this cauſes the falſe Prophet and Prieſt to rage that they can no longer be upholden after men come to learn of Chriſt; for he teaches purity and holineſs, and ſo brings man to God, and ſo man comes to ſee the end of all perfection: But thy Commandments are exceeding broad, O Lord, thy Teſtimonies are wonderful, therefore doth my ſoul keep them, <hi>Pſal.</hi> 119. 96.</p>
+            <p>And further, this was I moved to make known unto the World, That in that time the Lord God Almighty did viſit me with weakneſs, inſomuch that I did lye for dead, the Lord God Almighty made known unto me that the day of deſtruction draweth nigh, and will ſhortly come to paſs, that all the Wicked (both Prieſts and People) God will utterly deſtroy, and burn them up both root and branch; for the day cometh that ſhall burn as an Oven, and the proud, and all that doth wickedly ſhall be as ſtubble; and then what will the wicked and ungodly Prieſts and people do in the day of Viſitation, and in the day of Deſo<g ref="char:EOLhyphen"/>lation, which will ſhortly come? Then to whom will ye flye for help? and where will you leave your glory? So this have I made known to the World, that ſome of them may fear and dread the Name of the Lord God Almighty, againſt whom they have ſin<g ref="char:EOLhyphen"/>ned, and vvhoſe Name they have greatly diſhonored, and turn unto him vvith ſpeed, and forſake their ſins, and the evil of their Wayes, that they may find mercy to help in the time of need, and be ſaved.</p>
+            <closer>
+               <signed>John Moon.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41810:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
